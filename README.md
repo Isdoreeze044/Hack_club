@@ -1,3 +1,5 @@
+Click here to test my player movement prototype: https://vick-88.itch.io/mazbaitmovement
+
 About Me:
 Hi, I'm Isidore!.I really want to thank you all for this program ;this is the first time I have ever been enrolled in a coding competition and I am a beginner, I just started game dev and robotics, and to see this kind of oppurtunity just come my way,it's really amazing and will encourage me to keep chasing my dreams .Thank you HackClub!
 
@@ -7,6 +9,9 @@ I'm building mazebait- inspired by level devil and berserk.The game is a troll g
 .Enemies
 .Maze
 .Illusions and tricks, etc.
+
+Movement keys: ASWD or Nav. keys
+Shooting keys: Space or touchpad
 
 The ones I listed are just the core features, as I progress I will make it better and maybe I might publish it on play store.
 
