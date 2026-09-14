@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3 uid="uid://dolnmg8ndiknt"]
+
+[ext_resource type="Script" uid="uid://bvhyulix50tee" path="res://script/bullet.gd" id="1_qwydi"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_dcxha"]
+radius = 29.0172
+
+[node name="bullet" type="Area2D"]
+script = ExtResource("1_qwydi")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_dcxha")
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+color = Color(1, 0.407843, 1, 1)
+polygon = PackedVector2Array(-1, -30, 9, -28, 17, -24, 23, -17, 28, -9, 28, -1, 28, 5, 26, 13, 21, 19, 14, 25, 6, 28, -3, 29, -12, 26, -20, 21, -25, 14, -28, 6, -29, -2, -27, -9, -23, -16, -17, -23, -8, -28)
+
+[node name="Timer" type="Timer" parent="."]
+autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
