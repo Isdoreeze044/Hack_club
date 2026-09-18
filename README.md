@@ -31,7 +31,11 @@ I just finished coding the player movement and the shooting mechanism and to be 
 
 The part that took me alot of time in the game was actually every thing because I kept encountering problems. I taught that the same way I coded the player would be the same way I would code the bullet because you know... they both move, but unfortunately game logic doesn't work like that.Even the 2d movement was hell, I had problem with the camera viewing and the player's movement was also messed up until I had to read the docs to know what was wrong and it turns out that due to the way computers render graphics,the y-axis is inverted, so in a nutshell ,that's what caused my movement issue and oh boy! I do not even want to go into what I experienced in the bullet scene but I am glad I learned from my mistakes anyways.
 
-Screenshot:<img width="104" height="112" alt="Mazbait" src="https://github.com/user-attachments/assets/eb2d0913-0cb6-4f09-baca-597cdc603cd2" /><img width="227" height="169" alt="mazbait3" src="https://github.com/user-attachments/assets/8af0efd3-de1a-4f42-b78d-073d0fdd3266" />
+Screenshot:
+<img width="104" height="112" alt="Mazbait" src="https://github.com/user-attachments/assets/eb2d0913-0cb6-4f09-baca-597cdc603cd2" />
+
+<img width="227" height="169" alt="mazbait3" src="https://github.com/user-attachments/assets/8af0efd3-de1a-4f42-b78d-073d0fdd3266" />
+
 <img width="960" height="540" alt="maizebait 2" src="https://github.com/user-attachments/assets/107f3024-58d0-42c5-a907-858900e8f990" />
 
 GETTING STARTED
