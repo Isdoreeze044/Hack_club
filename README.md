@@ -2,10 +2,14 @@ Title:Mazbait
 
 
 DESCRIPTION:
+ About Me:
+ Hi, I'm Isidore!.I really want to thank you all for this program ;this is the first time I have ever been enrolled in a coding  
+ competition and I am a beginner, I just started game dev and robotics, and to see this kind of oppurtunity just come my way,it's  
+ really amazing and will encourage me to keep chasing my dreams .Thank you HackClub!
 
-  Click here to test my player movement prototype: https://vick-88.itch.io/mazbaitmovement
   About the game:
-  I'm building mazebait- inspired by level devil and berserk.The game is a troll game designed to be very frustrating and      addictive but this is just phase one. The game consists of:
+  I'm building mazebait- inspired by level devil and berserk.The game is a troll game designed to be very frustrating and             
+  addictive but this is just phase one. The game consists of:
  .Player
  .Enemies
  .Maze
@@ -19,10 +23,8 @@ DESCRIPTION:
 
  Game logic:
  So the game has one simple objective:To escape the maze before the enemy kills you.
- Of course making it just like berserk would seem old fashion, so I decided to turn up the heat. I  added annoying trolls     similar to the ones in level devil to the game like illusions that trick you into failing and all those stuff.The player     has the ability to shoot all enemies as they continuously spawn towards it. It my sound boring but trust me, if done well    it will be fantastic.I promise to try my best!
-
-About Me:
-Hi, I'm Isidore!.I really want to thank you all for this program ;this is the first time I have ever been enrolled in a coding competition and I am a beginner, I just started game dev and robotics, and to see this kind of oppurtunity just come my way,it's really amazing and will encourage me to keep chasing my dreams .Thank you HackClub!
+ Of course making it just like berserk would seem old fashion, so I decided to turn up the heat. I  added annoying trolls     similar  to the ones in level devil to the game like illusions that trick you into failing and all those stuff.The player     has the ability  to shoot all enemies as they continuously spawn towards it. It my sound boring but trust me, if done well    it will be fantastic.I  
+ promise to try my best!
 
 
 
