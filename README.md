@@ -40,7 +40,7 @@ Screenshot:
 
 GETTING STARTED
 
-Dependencies:
+Dependencies(for downloaded file):
 .Windows 10/11
 .Godot 4.4.1(stable)
 
