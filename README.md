@@ -40,7 +40,8 @@ Screenshot:
 
 <img width="959" height="539" alt="Maz3" src="https://github.com/user-attachments/assets/3b534ff2-e522-4cab-a4be-d54336b75d7e" />
 
-<img width="959" height="539" alt="Maz1" src="https://github.com/user-attachments/assets/3a6ea4c2-c86d-46da-afe8-e970252b9978" />
+<img width="959" height="539" alt="Maz2" src="https://github.com/user-attachments/assets/ba122d3a-daf1-4452-9ead-1e430352f64b" />
+
 
 
 GETTING STARTED
