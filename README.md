@@ -34,13 +34,12 @@ I just finished coding the player movement and the shooting mechanism and to be 
 The part that took me alot of time in the game was actually every thing because I kept encountering problems. I taught that the same way I coded the player would be the same way I would code the bullet because you know... they both move, but unfortunately game logic doesn't work like that.Even the 2d movement was hell, I had problem with the camera viewing and the player's movement was also messed up until I had to read the docs to know what was wrong and it turns out that due to the way computers render graphics,the y-axis is inverted, so in a nutshell ,that's what caused my movement issue and oh boy! I do not even want to go into what I experienced in the bullet scene but I am glad I learned from my mistakes anyways.
 
 Screenshot:
-<img width="959" height="539" alt="Maz2" src="https://github.com/user-attachments/assets/2c22da21-ab3c-4a1d-94fe-2e81dec4e119" />
+<img width="959" height="525" alt="mazerushmain" src="https://github.com/user-attachments/assets/07c8c516-d6fd-4edb-a5e6-2a7c83af9cef" />
 
-<img width="959" height="539" alt="Maz4" src="https://github.com/user-attachments/assets/66db38b1-cfcd-4b4c-93c6-2dd981c6fcb4" />
+<img width="1131" height="989" alt="MazeRush Neon Chase2" src="https://github.com/user-attachments/assets/14a8d21c-3d9d-4897-a680-6f532afbc3ba" />
 
-<img width="959" height="539" alt="Maz3" src="https://github.com/user-attachments/assets/3b534ff2-e522-4cab-a4be-d54336b75d7e" />
+<img width="959" height="522" alt="mainscreen" src="https://github.com/user-attachments/assets/8817ce57-804c-4c49-8f59-7bac0971781c" />
 
-<img width="959" height="539" alt="Maz2" src="https://github.com/user-attachments/assets/ba122d3a-daf1-4452-9ead-1e430352f64b" />
 
 
 
