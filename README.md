@@ -1,4 +1,4 @@
-Title:Mazbait
+Title:MazeRush
 
 
 DESCRIPTION:
@@ -8,7 +8,7 @@ DESCRIPTION:
  really amazing and will encourage me to keep chasing my dreams .Thank you HackClub!
 
   About the game:
-  I'm building mazebait- inspired by level devil and berserk.The game is a troll game designed to be very frustrating and             
+  I'm building MazeRush- inspired by level devil and berserk.The game is a troll game designed to be very frustrating and             
   addictive but this is just phase one. The game consists of:
  .Player
  .Enemies
@@ -32,6 +32,8 @@ Game stage:
 I just finished coding the player movement and the shooting mechanism and to be honest, it wasn't easy but I am really proud of what I did and I know that one day I will even be better than brackeys.
 
 The part that took me alot of time in the game was actually every thing because I kept encountering problems. I taught that the same way I coded the player would be the same way I would code the bullet because you know... they both move, but unfortunately game logic doesn't work like that.Even the 2d movement was hell, I had problem with the camera viewing and the player's movement was also messed up until I had to read the docs to know what was wrong and it turns out that due to the way computers render graphics,the y-axis is inverted, so in a nutshell ,that's what caused my movement issue and oh boy! I do not even want to go into what I experienced in the bullet scene but I am glad I learned from my mistakes anyways.
+
+DISCLAIMER: This is just a demo, it's not perfect!
 
 Screenshot:
 <img width="959" height="525" alt="mazerushmain" src="https://github.com/user-attachments/assets/07c8c516-d6fd-4edb-a5e6-2a7c83af9cef" />
